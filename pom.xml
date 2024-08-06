@@ -11,16 +11,16 @@
     <name>Spring Cloud Contract Standalone OA3 Test Samples</name>
     <description>Spring Cloud Contract Standalone Test Samples used for end to end tests using Open API 3.0</description>
 
-    <url>https://github.com/springframeworkguru/sccoa3-fraud-example</url>
+    <url>https://github.com/qiubosu/sccoa3-fraud-example</url>
 
     <inceptionYear>2018</inceptionYear>
 
     <developers>
         <developer>
-            <id>JT</id>
-            <name>John Thompson</name>
-            <email>john@springframework.guru</email>
-            <url>https://springframework.guru</url>
+            <id>QS</id>
+            <name>Qiubo Su</name>
+            <email>qiubosu@gmail.com</email>
+            <url>http://traceboard.co.nz</url>
         </developer>
     </developers>
 
